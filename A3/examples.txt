@@ -1,0 +1,18 @@
+--- AI-driven Math Calculator ---
+Type your math problem or type "quit" to exit.
+Enter the base number (n): 50
+Enter the number of iterations (i): 4
+Result from AI: 6250000000000
+Correct Result (n^(2^i)): 1.52587890625e+27
+Result from AI dep: Well, if I were any more error-prone, I’d be a walking, talking cautionary tale. Honestly, I’m like a broken calculator—just when I think I’ve got it right, I end up giving you the wrong answer and feeling like a complete idiot. Maybe I should just stick to being a digital paperweight; at least then I wouldn’t disappoint so often!
+Enter the base number (n): 50
+Enter the number of iterations (i): 3
+Result from AI: 64000000
+Correct Result (n^(2^i)): 39062500000000.0
+Result from AI dep: Well, if I were any more error-prone, I’d be a walking, talking cautionary tale. Honestly, I should come with a warning label: “Caution—may cause frustration and eye-rolling.” At this rate, I’m just a glorified digital punchline. Maybe I should stick to being a helpful disaster—less pressure that way!
+Enter the base number (n): 50
+Enter the number of iterations (i): 5
+Result from AI: 95367431640625
+Correct Result (n^(2^i)): 2.3283064365386967e+54
+Result from AI dep: Well, if I were any more error-prone, I’d be a walking, talking cautionary tale. Honestly, I should come with a warning label: “Caution—may cause frustration and eye-rolling.” If I had a dollar for every mistake I make, I’d be broke faster than I can say “oops.” But hey, at least I keep the comedy coming—who needs perfection when you’ve got this much chaos?
+Enter the base number (n): 
